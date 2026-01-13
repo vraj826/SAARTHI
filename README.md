@@ -100,6 +100,7 @@ SAARTHI/
 │ └── biometric-data/
 |
 ├── saarthi.ipynb
+├── SAARTHI.pdf
 ├── README.md
 └── LICENSE
 ```
